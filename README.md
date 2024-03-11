@@ -31,7 +31,7 @@ A empresa de limpeza residencial busca uma solução eficiente para o gerenciame
 3. Instale as dependências:
 
 ```bash
-yarn add
+yarn
 ```
 4. Rode:
 ```bash
