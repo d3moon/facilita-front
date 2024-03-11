@@ -27,7 +27,7 @@ A empresa de limpeza residencial busca uma solução eficiente para o gerenciame
 ## Instalação e Execução
 
 1. Certifique-se de que o backend está em execução e configurado corretamente.
-2. Acesse o diretório frontend: `cd facilita-frontend`
+2. Acesse o diretório frontend: `cd facilita-front`
 3. Instale as dependências:
 
 ```bash
